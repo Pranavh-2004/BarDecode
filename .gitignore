@@ -1,0 +1,45 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.db
+
+# Virtual environment
+venv/
+env/
+
+# Mac OS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Operating System
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Package Distribution
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Test Coverage
+.coverage
+*.cover
+*.hypothesis/
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# Miscellaneous
+*.swp
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
