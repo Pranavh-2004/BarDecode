@@ -81,6 +81,6 @@ def read_barcode_from_camera():
 # Uncomment one of the functions to use
 
 # For reading from an image
-read_barcode_from_image('images/barcode_test.png')  
+#read_barcode_from_image('images/barcode_test.png')  
 # For reading from the camera
 #read_barcode_from_camera()  
